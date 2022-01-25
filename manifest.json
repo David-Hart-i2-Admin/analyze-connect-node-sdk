@@ -1,0 +1,3413 @@
+{
+  "homepages": [],
+  "source_base_path": "/Users/jc102396/Documents/GitHub/i2connect-sdk/packages/i2connect/bld/doc-transformed",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.accesslevel.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.accesslevel.html",
+          "hash": "ifZ9aVCPZ+gLxVmUsEWc9RdyTQ2yGSMyax3hokDvYgo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.asyncstate.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.asyncstate.html",
+          "hash": "CZmvEpYZNtEm2YmLEzJ/p9+5rPwdykUgLCAf4AzvyXA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.authenticationfield.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.authenticationfield.html",
+          "hash": "QkonhPg5MuvEBhgN8AvvIt3aBhDK3cRBz+VcpJg2T9U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.authenticationrequirederror._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.authenticationrequirederror._constructor_.html",
+          "hash": "oOYsdDpXsgk3qy1jVcxE7xNt0RNnF23aUuK0KHxfITM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.authenticationrequirederror.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.authenticationrequirederror.html",
+          "hash": "aFrmgBezVw5stBiyHzUJQzAajryPjD9gunsUm8pHDAE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.authenticationtoken.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.authenticationtoken.html",
+          "hash": "TVAghKaslGG76nV1XC34D+O2mOcb3UCca5bRkuuoSrA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.authenticator.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.authenticator.html",
+          "hash": "QvWRZrQqp/Cb4JRXGF665w9EoBdu8lJk1thl50W7/GU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.condition.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.condition.html",
+          "hash": "PZBfrG0Ou7s0VxnWQZHKKb/r7tzz2GpX2aSaEoPt7JM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connector.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connector.html",
+          "hash": "X7syASS3JOKOXDW9aXQqu2ciL1Z7tuMj0tpdG4FaCXE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.authenticationfieldtype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.authenticationfieldtype.html",
+          "hash": "Yjh5lzs0ONIFeK88IWfUp6HIxkmjWH4eXz0Ui0cQSms="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.iauthenticationfield.label.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.iauthenticationfield.label.html",
+          "hash": "y5PpJ16vbzcO2QWpJsrxk+wuHl80xc0+uHu70Lvi98o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.iauthenticationfield.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.iauthenticationfield.html",
+          "hash": "hpeq2xwFPf24KhqDYi2QIYrfwEz9+JZTMjULd2UyHyk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.iauthenticationfield.type.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.iauthenticationfield.type.html",
+          "hash": "TIu5g3Fh5iZ+qBVFMM8XaeRcfC3Cj5/rBaWUCFWdDZ0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.iauthenticatorconfig.description.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.iauthenticatorconfig.description.html",
+          "hash": "ovBP1idw6e8urw8Knrv9tkONE6b4iaRupvar9OQ4WSA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.iauthenticatorconfig.id.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.iauthenticatorconfig.id.html",
+          "hash": "nG6COHJ8d18rEqbfxvhtWAY6QVRNQqGzp4VEc3x/OBg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.iauthenticatorconfig.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.iauthenticatorconfig.html",
+          "hash": "iVpt651yDpITEOi1IWUvqobsSK4hrC5/J+s8C3/eltY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.iconnectorconfig.haspersistentresultids.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.iconnectorconfig.haspersistentresultids.html",
+          "hash": "utjJw9b5fqiRJQkEGRZs6V4otCUOhO8vKEmhFvJbVEQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.iconnectorconfig.linkdirection.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.iconnectorconfig.linkdirection.html",
+          "hash": "6AFzyIAv/s/wWLMRq7IIUHeZPzbDNr1/CUvG/IY+h3A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.iconnectorconfig.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.iconnectorconfig.html",
+          "hash": "Ar4hPLp6Owzj86M/ciksFDQ2jQzyruFx7Iem8IlpuCk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.iconnectorconfig.schemas.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.iconnectorconfig.schemas.html",
+          "hash": "Gj5xSihvwHVG6LgQtsv/qQbFvglkqw9bs8HAuC6v/f4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.iconnectorconfig.timezoneid.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.iconnectorconfig.timezoneid.html",
+          "hash": "Qs0+mSdlKXcxp8XMLjxgHBa0YVv25e/OJBVIO2S5PCg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.iconnectorschema.chartingschemepath.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.iconnectorschema.chartingschemepath.html",
+          "hash": "wIjpEXobMrJiR30PNzsEGyX9rnF/KBRsKR0IGJeE9tI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.iconnectorschema.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.iconnectorschema.html",
+          "hash": "Gh+BYsTcY/nxYFzxMAl9XWCp7NjqIGmSeK8Jjxjrlyg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.iconnectorschema.schemapath.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.iconnectorschema.schemapath.html",
+          "hash": "D61h89J1P+e20pnalCHArnmRjVHX1x/1g8LlorNLLkM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.iconnectorschema.schemashortname.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.iconnectorschema.schemashortname.html",
+          "hash": "egMZlGQsBEo8pDfzSebh9tBrQJo0rBeN5jL8jthr9aA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.ischemas.connector.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.ischemas.connector.html",
+          "hash": "uNGwKvLFHVo+JwjRv1666OxqYXPZEhTw0+apy9NC6OM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.ischemas.gateway.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.ischemas.gateway.html",
+          "hash": "a5kw0i4bjS3Ht1f67q78raackGKgaSpxPVQUt7zeP60="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.ischemas.infostore.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.ischemas.infostore.html",
+          "hash": "eNfTVlBWB6GuachQQ9GIr918eMVqkARaH6qNWHfkmL0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.ischemas.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.ischemas.html",
+          "hash": "aw3KNY1J5n/AQlNPjYYj6A0VClM3xa6Cpo+ODC9eb4c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.connectors.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.connectors.html",
+          "hash": "NvZC1hQr6PfLMYNOdx1kwvkN385tpTQ5lNHJDj/iycs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.createlogger.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.createlogger.html",
+          "hash": "ioFGYOANqZ9RldykblFJg4wXzP0leRLzMxMM16ECVo4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.datetime.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.datetime.html",
+          "hash": "1jlQRMNakY31TOW5+0tHmPVvd0/IakTTIfc462rW/Q4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.decimalstring.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.decimalstring.html",
+          "hash": "7Qv2kaxP19jnRLtKwOZNzWWmRqybM3sRci0DRa/fEhA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.igeojsonfeature.geometry.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.igeojsonfeature.geometry.html",
+          "hash": "EFnbS53TP1sQ1oTFvSXUO4bvnbp41qGvazU86W8d64o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.igeojsonfeature.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.igeojsonfeature.html",
+          "hash": "CMnw7Jitu2aXhojk6Ju1qmGDeoGY4Bmnuz0TJ2yIxW8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.igeojsonfeature.properties.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.igeojsonfeature.properties.html",
+          "hash": "/QfkBtY+1pgbAJyR5gAgdl+LvUoNbMTk3EEkz3TqqKA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.igeojsonfeature.type.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.igeojsonfeature.type.html",
+          "hash": "Rs/F0Q5/dr++cZfCk8Yt75BpDsD78Am8TO7OVYWP05s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.igeojsonfeaturecollection.features.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.igeojsonfeaturecollection.features.html",
+          "hash": "R+ikcww8+WRvjk6hbGQgMEqtWVe0UiDqwevZ3RQvvNU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.igeojsonfeaturecollection.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.igeojsonfeaturecollection.html",
+          "hash": "XcjHhFibFSkwyvRIGOBE1Jmezfc+XLriLvOH3E4pJ+c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.igeojsonfeaturecollection.type.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.igeojsonfeaturecollection.type.html",
+          "hash": "38Da8Jyg6jdZ2NAl6WLpGBO/IADk6vEtwp/fmdaqtGQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.igeojsongeometry.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.igeojsongeometry.html",
+          "hash": "FMcHfTwmQGGyGfWNXg9iYqrD3gIjiRcNGLSxDVvrErE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.igeojsonmultipolygon.coordinates.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.igeojsonmultipolygon.coordinates.html",
+          "hash": "TccH09yQ6ubFEE+Al5lKvQvULyM50MjMToJV8s8Sk7Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.igeojsonmultipolygon.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.igeojsonmultipolygon.html",
+          "hash": "Ov3KK51gdgglMEOUNKZOHiR21Nz7CG4V7JhUtHnV2GQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.igeojsonmultipolygon.type.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.igeojsonmultipolygon.type.html",
+          "hash": "J3Xaf6cxPXAGRlyM6d2vzVlhPLJTE16lexJvSnugH0s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.igeojsonpoint.coordinates.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.igeojsonpoint.coordinates.html",
+          "hash": "72uzzx0duJXH8CxWuWLut/6HvxiRbcr2AHJpG37HQ7g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.igeojsonpoint.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.igeojsonpoint.html",
+          "hash": "yoEjiAaKkdo1Ve5hPKrBw8qvXRg8Sp6iQsp6SUB6ElM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.igeojsonpoint.type.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.igeojsonpoint.type.html",
+          "hash": "OLS1C9JnTbb2foyvhUpyZSP/XvYsMuKs9+m9xbrUWos="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.igeojsonpolygon.coordinates.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.igeojsonpolygon.coordinates.html",
+          "hash": "CmYjgyA6qybi2u+6VdNxvRMkgsmcAal4/4gXJOJ+mdY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.igeojsonpolygon.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.igeojsonpolygon.html",
+          "hash": "K/UMO5YCP6MLPqHFtIqAW2AQNKpXy3jxrqswGpbc92g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.igeojsonpolygon.type.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.igeojsonpolygon.type.html",
+          "hash": "3QGDsrVb8FzM4tfs5e4LjHrLZ7PLugPZCV7RrE0KNOM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.igeojsonposition.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.igeojsonposition.html",
+          "hash": "QiWhqui0ONAFi2TXTXOYqlwdluyr+fXbFZoaoPvrvhY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.iso8601date.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.iso8601date.html",
+          "hash": "mMNTVN+m5ipq5bn9U3LPvD3HCXvxipXT6RNXP32LFkA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.iso8601localdatetime.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.iso8601localdatetime.html",
+          "hash": "599kfXdxJKKMHMsdrOVbyZHGQo9QxxKhDOFB7E11+Yk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.iso8601time.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.iso8601time.html",
+          "hash": "jtzv/CGduvOPaWKBF0ufRoO9xkz+emEGplg+bNZ+gsI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.izoneddatetime.isdst.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.izoneddatetime.isdst.html",
+          "hash": "/ulDIXWF0wt55tiMuWNTKri/oaQusfnnMyeXKSx4VHE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.izoneddatetime.localdateandtime.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.izoneddatetime.localdateandtime.html",
+          "hash": "m7o6sv062VQAh8l7cb7LW5a1xg4TR6Ljxo3uX6OvX4c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.izoneddatetime.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.izoneddatetime.html",
+          "hash": "2NbOYg5CnJgMywe7Dmo2177rYppnZWclxb/yxA/F+no="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.izoneddatetime.timezoneid.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.izoneddatetime.timezoneid.html",
+          "hash": "FRCFEtl/bNrB2cC9j6g1cr2ljJDQk8HscVOSP8vV3nQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.linkdirection.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.linkdirection.html",
+          "hash": "EI+ddxRBpZ9UGyD20yxlWNzWtfQIgbiHHX4b3Vxm24Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.logicaltype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.logicaltype.html",
+          "hash": "M+0wPNfdjweXpimbucFnNTFmh0w1hM/pWomZq48o4/8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.html",
+          "hash": "Eul95fGniufHmRWFz6eoNc/Lz30QjDoswRe/Kjh7rew="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.propertyvalue.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.propertyvalue.html",
+          "hash": "y5V2TcMML8ak+P1pevpzwA3L5nHxde8LGU52D02VzVI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.data.propertyvaluetype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.data.propertyvaluetype.html",
+          "hash": "kt2myKGKCf82Dpaf6E0suicpyb8C4I449RHJ0/f0HiI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.detailederror._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.detailederror._constructor_.html",
+          "hash": "74aU/9md0vPUjiAnIDMoH/f89zBK0dw6vA3jMrVMw+4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.detailederror.data.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.detailederror.data.html",
+          "hash": "EfEX/oQXTUvOOdSHO5oNsXvuiZJVH+p6/YdNyc0ArbI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.detailederror.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.detailederror.html",
+          "hash": "Gm8AwjdDQU2sTSvhqMiY6Wa5TKawqRTZ+5BPr3lJqx8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.iasyncstate.addsubstatus.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.iasyncstate.addsubstatus.html",
+          "hash": "j2x0LLBNReko66pg0EtpKoM0pP0blyMlgzv14LV0D1M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.iasyncstate.clearsubstatuses.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.iasyncstate.clearsubstatuses.html",
+          "hash": "xEQ4V1UJD2BHXYFIhmMK/zC7Q8t2GYGOkipbZoErjUQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.iasyncstate.iscanceled.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.iasyncstate.iscanceled.html",
+          "hash": "D/6eRMrWlMJ554x1XzD13eE37R0+vfEnClPBuCv1DdQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.iasyncstate.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.iasyncstate.html",
+          "hash": "5kgayizp2Fezd5xguSSU6YBsswCT84DNxg5/xK2+eQ8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.idetailederrordata.detail.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.idetailederrordata.detail.html",
+          "hash": "eMG9QLXaty2zkWymGCJ5wsvi4dAXHhDppEn4oLG6+Gc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.idetailederrordata.instance.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.idetailederrordata.instance.html",
+          "hash": "nRgGTGUuwE9P/HUdmsYX4FD4P73/utuB5WQEJQXznSU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.idetailederrordata.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.idetailederrordata.html",
+          "hash": "Oz/XvEZ0tlbrOI9wZU9DfH+7brWyPXTb/H9NKxj3Diw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.idetailederrordata.status.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.idetailederrordata.status.html",
+          "hash": "MEqpH421+t1vvEHcBWMIXOeHyBxNXoy2RD4mIFzpJWc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.idetailederrordata.title.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.idetailederrordata.title.html",
+          "hash": "CyD55mTekm0LPzAG1B0cdeZ9pv5C8uIcq9SYGhe8jIM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.idetailederrordata.type.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.idetailederrordata.type.html",
+          "hash": "TgNNd0nBiOTiDvN89myQgeSsIMmWh5cMhrelYJ2NhmY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.ilogger.debug.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.ilogger.debug.html",
+          "hash": "yw6Gv409J/84psbjdG4bI5rrre7MZXQdLF2/l12jcJw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.ilogger.debug_1.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.ilogger.debug_1.html",
+          "hash": "bRPY8dxMbvNsQ5cKFtLOrDtLjEEITlH6Hh6g7YQmvI4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.ilogger.error.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.ilogger.error.html",
+          "hash": "jJJoanc0ANfQu7NWQ/I+Z2n1zue734FoCvcvsyruDaQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.ilogger.error_1.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.ilogger.error_1.html",
+          "hash": "x/gtYoCWbDoHZfGyu7btGGoOpQkRDtFSwbDtYZEA9mI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.ilogger.error_2.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.ilogger.error_2.html",
+          "hash": "hcmzWdvXOI5VZ43EFLwcjDMijtyZTMCX97u7yDh6MIg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.ilogger.info.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.ilogger.info.html",
+          "hash": "iHjvoPu65VI7nGIk21Z1jBw8OvRr4AhpgIxyYuR0IwE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.ilogger.info_1.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.ilogger.info_1.html",
+          "hash": "8G6T3MKgupsdw4KGBfpO/pXgxEguB4Ok3Z+riXG3Azs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.ilogger.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.ilogger.html",
+          "hash": "MiuirtyxpFrFg21JZ1Le3+wui2NxqokY8F7xhpee464="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.ilogger.setloglevel.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.ilogger.setloglevel.html",
+          "hash": "yDsEwajw7BxKGZhQ6VTM8lCStMgdmHBkMRn8006MFVY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.ilogger.warn.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.ilogger.warn.html",
+          "hash": "a0kw2BO+trDIA4fgoXDzpZgWm4oJKf170nheGhkizUM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.ilogger.warn_1.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.ilogger.warn_1.html",
+          "hash": "HfGnlHx/oy7TOLpR6JOFupCL7WFoh7kbQ+eUIt1N+cs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.irequestinformation.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.irequestinformation.html",
+          "hash": "L7OBlc/xXsF2JZIkLBplgP+7yVil2W0jhzhBgPGUZRA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.irequestinformation.user.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.irequestinformation.user.html",
+          "hash": "7jwxiJ/mnCJSkjTC59sQUIIeGr5DPS45GszC45PBSXI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.isecuritypermission.dimension.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.isecuritypermission.dimension.html",
+          "hash": "1PT3w3xPpb39hl2+cH3376IXrkU2gpSZR476LJLomxg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.isecuritypermission.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.isecuritypermission.html",
+          "hash": "+Me1MVGJMXreBdHUPMKnzBKaAnTvhwiTlclYdno2hFc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.isecuritypermission.permissions.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.isecuritypermission.permissions.html",
+          "hash": "Emu44KNAkHbwrYzfuuGuML0xvhJIexzyhXYPD+lgG7E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.iseeds.entities.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.iseeds.entities.html",
+          "hash": "wSrqdq85S716MPqQi9UfYKZyH5NX+JD2dkeVINLH/Rg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.iseeds.links.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.iseeds.links.html",
+          "hash": "7nSJGDn1ISVBA/ZGWxuNR3iBte50lW2js1K9CDW9Ub4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.iseeds.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.iseeds.html",
+          "hash": "8aJ6A5o2woidHM9f6LMrNcxIHtxvMx9Xwz/QPOfeZok="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.isubstatus.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.isubstatus.html",
+          "hash": "PJl8EjrczH0ehP1/bqtvR4ncHHa9HIxPx6JpuF6IzqU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.isubstatus.message.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.isubstatus.message.html",
+          "hash": "LK12RulMm80QQYYdwP+RgWFUm+UrnxLqpVs1WVai5Y8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.isubstatus.type.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.isubstatus.type.html",
+          "hash": "ZyMdfjqoMkAs2h7F7DvmYOCfIVQNOZv9eURCa4r8RTg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.jwt.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.jwt.html",
+          "hash": "Ml+sq3OTl7Wi8fctdDS36VCRZmz6w46aRIHxtlTsI4g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.loglevel.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.loglevel.html",
+          "hash": "o6ioqZZ2mXN6wCBXLTop3PZV1xez4DbGNxT9zNlQSsU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.html",
+          "hash": "IgGfU7/S8Ueb7fYGUtCWKt5I1pgO7PUdOEQx1m35RfI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iconnectorkey.id.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iconnectorkey.id.html",
+          "hash": "OR3jSWYzINHyE3fnxj2gXPjozDeCYFUjMbYa4gn3g34="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iconnectorkey.itemtypeid.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iconnectorkey.itemtypeid.html",
+          "hash": "mwtjrvdpus9i56e8SG8GNd2jQMu6GUEIMMXtniq0sR8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iconnectorkey.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iconnectorkey.html",
+          "hash": "jLfZT8fUc2VvV9RiNzl13cIDIFN3PMcYzXG6U5BC/PY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.irecordproperties.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.irecordproperties.html",
+          "hash": "hY2MNiaoMG1XE9iw5VdcC+VA5fkYjFGMaBl1RPTAdUA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.irecordproperties.setproperties.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.irecordproperties.setproperties.html",
+          "hash": "/vlnHQMJptTDwnaQ/L1lWrAcMevv/hxVXMQompnPDmM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.irecordproperties.setproperty.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.irecordproperties.setproperty.html",
+          "hash": "f/4I0YdFvl7yF3cEp2xptnfq504cqUnI8P/RQsRkcGM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.irecordproperties.setsourcereference.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.irecordproperties.setsourcereference.html",
+          "hash": "FKYWG9yKw8up8h89PiNkN5U4O5qaIXK02hiqxiIoMTM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iresultentityrecord.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iresultentityrecord.html",
+          "hash": "3nWHjTwjd67TQNZQuVAHBEOPhjWXFGe+P9//M0mO8iQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iresultlinkrecord.fromend.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iresultlinkrecord.fromend.html",
+          "hash": "MKfSiQLNy4V6gIx8uVgKH7WIQJQiUMQ4eCzqTOKNC3w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iresultlinkrecord.linkdirection.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iresultlinkrecord.linkdirection.html",
+          "hash": "4319uYb3AlImTS+koRsi8K0zwUVLseBlk53sl8RGA8s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iresultlinkrecord.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iresultlinkrecord.html",
+          "hash": "nbSUx6b1XPiz9kALrvlOUf/UL0Ko3KZMEbzMRlXYGFs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iresultlinkrecord.toend.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iresultlinkrecord.toend.html",
+          "hash": "ehnHBzSEoCijZLSx7VfGH2W6MyAXtlG9CIcLwFy+2Kg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iresultrecordbase.id.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iresultrecordbase.id.html",
+          "hash": "zO25RN8xc0H/WzoXSZS+8OFK7xYOC9Kh3CuGNH2WqIE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iresultrecordbase.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iresultrecordbase.html",
+          "hash": "A72cz9Sm5Ml+iiKHnA0IYG4ochf0Di6qdPDEsYVdzno="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseededresultentityrecord.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseededresultentityrecord.html",
+          "hash": "8H73MlN+Rhy18urmTgmhXvEHbONd70HE6YgIyeYXyz0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseededresultlinkrecord.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseededresultlinkrecord.html",
+          "hash": "vXY3oM095phiog0LQevacJ81Vz4gU08P4oR2AxvqtTI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseededresultrecordbase.id.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseededresultrecordbase.id.html",
+          "hash": "sUiWn5ngFYpsQGoJezLK8N0oSSc5ydLPmggNv/PYgGk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseededresultrecordbase.istype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseededresultrecordbase.istype.html",
+          "hash": "N8oXxaKW3tjokhdCKpNr7g+EL2ryBbTaKrl53cyVvIc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseededresultrecordbase.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseededresultrecordbase.html",
+          "hash": "ssaGJ7BBHQlgkgEj9v/mP1f+mNA6i8aM6cx0zREaeio="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseededresultrecordbase.setsourcereference.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseededresultrecordbase.setsourcereference.html",
+          "hash": "s4NLhqxMmRAW6We9AKyn230WyXPj0365Kw1qgXtI7bw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseedentityrecord.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseedentityrecord.html",
+          "hash": "XOTgLzpwOC5mdhLkxSN0ZmVn1IQpMuTWABKcohdBRLc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseedlinkrecord.direction.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseedlinkrecord.direction.html",
+          "hash": "ik5AhLMJFUpS1p/7nlVVdgzVqrB6Hlx/NC3vEZJy5uQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseedlinkrecord.fromend.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseedlinkrecord.fromend.html",
+          "hash": "Ww/UpddydlQHNfurtW1PzoSCa0CD0EPpHM503q9kPlE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseedlinkrecord.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseedlinkrecord.html",
+          "hash": "5ovcGAsCzq/R4xFf13eUL2YqqjaK1YH0/Xejt7jyTWM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseedlinkrecord.toend.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseedlinkrecord.toend.html",
+          "hash": "G4yQ6ZT+y2P9iEWIxA6lOr4IVnU9l5WfwjZu5IP75LA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseedproperties.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseedproperties.html",
+          "hash": "T4WJwh5Pz+U1MVR8MO7HL+hJpcm6Ydc8dcQRgm/QopY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseedrecordbase.connectorkeys.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseedrecordbase.connectorkeys.html",
+          "hash": "atHrcXM9TIhD+fFJotzDmjgYsiCDLl5dCZ2hlp8sluQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseedrecordbase.connectorkeysbytype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseedrecordbase.connectorkeysbytype.html",
+          "hash": "/oWdpUV1H0wySI5qWsG1gaXeNBSLYAJD26NnCMDy8Tc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseedrecordbase.getproperty.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseedrecordbase.getproperty.html",
+          "hash": "/Ir/vPun3FhGmbn8crPRufp7GDCd5hzhmW1BCXvv1B4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseedrecordbase.hasproperty.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseedrecordbase.hasproperty.html",
+          "hash": "buIMO8TxWwkwYev94RnoUnXcDo7OdT38X/IrrFQFP5I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseedrecordbase.istype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseedrecordbase.istype.html",
+          "hash": "c4gWovi20EGJ4yAAzkAwsv4b+XBJe9Pwl1l+4q/lagY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseedrecordbase.label.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseedrecordbase.label.html",
+          "hash": "re0copJkU/vpQshqOO+sroOPTgS0UxEwo0cWE6/szd0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseedrecordbase.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseedrecordbase.html",
+          "hash": "RJxGKQSqdt6Mj31N/ZNTZbDSVEBVPewbvZGo4pBNuP8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseedrecordbase.seedid.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseedrecordbase.seedid.html",
+          "hash": "aAhp1V8/b1KLl0o1T6f2TVM+KX1GLLNgLhrqtYYsFP0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.iseedrecordbase.sourceidentifiers.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.iseedrecordbase.sourceidentifiers.html",
+          "hash": "Ivpah4OX8VCb08C7A8JIfZdPfa3V5GzMtOlhkqmAD3o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.isourceidentifier.key.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.isourceidentifier.key.html",
+          "hash": "fMMB64OzGaWdsDujRj1nQaaUP9ETo75NXkPvlHy1Ukc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.isourceidentifier.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.isourceidentifier.html",
+          "hash": "P68Khqng0An1xh4eY/VXFTPzvXWAIOxtx/xWQqMdTsw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.isourceidentifier.type.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.isourceidentifier.type.html",
+          "hash": "C3Qzkfc7XFVhV9k+F72YuYfvTzVEUjqWwRMX7LPCuWY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.isourcereference.description.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.isourcereference.description.html",
+          "hash": "9vOnLRrjDum4WJrdS0FtBUSM7UwjHKt2HYo1wkeDubg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.isourcereference.imageurl.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.isourcereference.imageurl.html",
+          "hash": "+XiYulf8uck2Wx3tAjLMxlZcWXjUV5kDIvdN+sPFh0M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.isourcereference.location.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.isourcereference.location.html",
+          "hash": "PhBvIcehISwVJorQHnxliN86nB4ickRHLQMcdTHictg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.isourcereference.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.isourcereference.html",
+          "hash": "TzQNKRuzIaMh4O7r0pp2Z3TEhtb+b5qfnUTIwvYkvPI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.isourcereference.name.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.isourcereference.name.html",
+          "hash": "6B7xkf+7VR2ATyg6Hbevu9apoV/7aZ5KL6+tGBLzXNM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.isourcereference.type.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.isourcereference.type.html",
+          "hash": "GXg3zCn+ZIdgbH5ieCqkswMFXWf2r4tRoUauqZp+mKU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.itypedseededresultrecord.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.itypedseededresultrecord.html",
+          "hash": "jJFVZNOcYNXo+3LY8a07sSWb2bQRuDxG6oAr0QXzVZ4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.itypedseededresultrecord.setproperties.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.itypedseededresultrecord.setproperties.html",
+          "hash": "LUWF90vc+kF7lO94rHJPdv9WbF0PUjBK294AL3Ibtqg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.itypedseededresultrecord.setproperty.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.itypedseededresultrecord.setproperty.html",
+          "hash": "Udcwy6YPeN5ypC9FAlQq0e05yMcAsgZARtKBPojDuUw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.itypedseedrecord.getproperty.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.itypedseedrecord.getproperty.html",
+          "hash": "8N1VY7YcXStYmmEyLVgiJ2NyaKUMTAU1D/LIG4xi3mM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.itypedseedrecord.hasproperty.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.itypedseedrecord.hasproperty.html",
+          "hash": "hkh6MVPauV0iFroy9EOuJvVafGruyEpjQy64hh1vOIo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.itypedseedrecord.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.itypedseedrecord.html",
+          "hash": "UDkISHhWA5f1oI2HKHuycuqECWy0+Aai5UZ04OzpQi0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.logicaltypevaluetypemap.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.logicaltypevaluetypemap.html",
+          "hash": "3bl/5V/FFOTGBkyY5ERD/O8jH3HVwstiSPmp/3+Kmbc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.html",
+          "hash": "Ffn1r8WpHsv6ewQ3gvO1dxyrZZDGXaoObQ/f0Ox24Bk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.propertytypedisplaynames.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.propertytypedisplaynames.html",
+          "hash": "Lg9qyUf1FgfSGcgEMyLvw3pxbBFs4GqIB2UXbY9EcbU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.propertytypefromdisplayname.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.propertytypefromdisplayname.html",
+          "hash": "jN1GYehx5q+M43/Xc3wYX8e8HpEPoNXVBCiUeiX2r5Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.propertyvaluesfrompossiblevalues.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.propertyvaluesfrompossiblevalues.html",
+          "hash": "cLz+rZO0c6hRQiV9L9IKWChCokfIW/1sPn4xxnYHjfA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.recordproperties.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.recordproperties.html",
+          "hash": "iSGbZldvdljOKKDyBBrOUHZB/t7fSasXG9AFr7MHKZc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.resultrecordid.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.resultrecordid.html",
+          "hash": "N0xCiZfeMP1Yx1cCp5jUc2krLbVzz2M/T2iq2XaVaAw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.resultrecordidtype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.resultrecordidtype.html",
+          "hash": "znyt20cQqbr3Nl5oNjRi/uFu7Nse0Atq4PQ0q63K/E8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.records.seedid.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.records.seedid.html",
+          "hash": "/NJkVKQ0qC79dJjZpOiGDbih8mrcfwT5+F3DS3PI5L0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.result.addentity.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.result.addentity.html",
+          "hash": "cEkr4jbzHxBTAOf9TvRLSyTKzkrOZx6dWsh3+ZD9gJA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.result.addentityfromseed.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.result.addentityfromseed.html",
+          "hash": "IieQAOPY3JCY+q50BRYQ7rNSOGwfKrcA5U1ntWJhUZ4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.result.addentityfromseed_1.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.result.addentityfromseed_1.html",
+          "hash": "oIqLmEch9W0+3Lb7LFh1wEeRdpfLVltJKzwLNRye+L8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.result.addentitywithsourceidentifier.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.result.addentitywithsourceidentifier.html",
+          "hash": "Lw3Exq+F1E2x6LwUyy8c6szLyseidiHz6evR3IZ6wQ0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.result.addlink.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.result.addlink.html",
+          "hash": "ezYbKP4wu4J86ISlKKT98fVa6J0xyJaJgnICdB/DEXo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.result.addlinkfromseed.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.result.addlinkfromseed.html",
+          "hash": "kPJu+UMoSkvMq+ddIqbCdlBMQDI2nsw7xkl4O2JyXiQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.result.addlinkfromseed_1.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.result.addlinkfromseed_1.html",
+          "hash": "OMHtGmaAYFpu5YgVT7Yy4Lh6PAktcPnxj9/PEKUUGlE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.result.addlinkwithsourceidentifier.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.result.addlinkwithsourceidentifier.html",
+          "hash": "bQ3FUaGy4LSxDhTnPk8cZuQdBZa0kjwNeCou7e18kps="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.result.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.result.html",
+          "hash": "8F7xsuxwX+M0xj5UPw3/aE1AA6ZyUBBkhJRNfMeyGe8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.schema.ientitytype.islink.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.schema.ientitytype.islink.html",
+          "hash": "8ivwPcVZz0Szmrp4J5ykgj1GdIkPZQqiUhrxBnCR9WM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.schema.ientitytype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.schema.ientitytype.html",
+          "hash": "VwPgl9mFONwQqMmKDtkXDkUpIWF/Y+2fMRqLnDG8EJ0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.schema.iitemtype.id.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.schema.iitemtype.id.html",
+          "hash": "c+C18pBiI8ZLWgxz36kEhlf/jKWVzsBOq+Dtlxm7Nxo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.schema.iitemtype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.schema.iitemtype.html",
+          "hash": "RHBRCUxjPeq9MVr3rRounfdweprpO5ziWYC8tzYhWQs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.schema.iitemtype.propertytypes.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.schema.iitemtype.propertytypes.html",
+          "hash": "GDojRCQrFcaE9nqeNarqbdZZyysPdqxbmtLpSvQhtAQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.schema.ilinktype.islink.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.schema.ilinktype.islink.html",
+          "hash": "OFJdSvF//7cQqNH/rNQxg40THKGl9NnBREq2xKFMqac="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.schema.ilinktype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.schema.ilinktype.html",
+          "hash": "kWE8LXyqSZmHdfU247sS3bHslZDPkeSs/Zm8+48HVuw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.schema.ipossiblevalue.displayvalue.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.schema.ipossiblevalue.displayvalue.html",
+          "hash": "JymhYdb6LB+jptEyFzzzdfFJ/0LcWVgfAVOMY41be8I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.schema.ipossiblevalue.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.schema.ipossiblevalue.html",
+          "hash": "9PX6Ntie4NF0uptpXmnWlh7bt8vMcol45d+yEtrKjOE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.schema.ipossiblevalue.value.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.schema.ipossiblevalue.value.html",
+          "hash": "AAMfXjx8iqQOX+lNRV6tK5p5v1RTjYHOfcaneCi08Q8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.schema.ipropertytype.id.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.schema.ipropertytype.id.html",
+          "hash": "kx/fKJKiUbTkRtVvKbfUpknTAQguvoHJZ/ps30y88us="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.schema.ipropertytype.logicaltype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.schema.ipropertytype.logicaltype.html",
+          "hash": "LCRgP+N7VDiF4nvLhZny3DaBtAjnUdCBrTn3nNaYPT8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.schema.ipropertytype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.schema.ipropertytype.html",
+          "hash": "GI4/9EndkCe+GmGyv/8YGB+HZxKcJ104M7+OXMxrLw8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.schema.ipropertytype.possiblevalues.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.schema.ipropertytype.possiblevalues.html",
+          "hash": "ro3oXaNs4KzZlJf6jF5uPbeCmL7gTPEHa5IL4XdE1W4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.schema.ischema.entitytypes.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.schema.ischema.entitytypes.html",
+          "hash": "JoE9TlwFjQeeTNbK2e3viAkWVo7GJCkbzqSSos0NnTw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.schema.ischema.linktypes.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.schema.ischema.linktypes.html",
+          "hash": "ZbO33i9baEW/96LQI0A4E3NEuo4Ay9OS/3wegbuL52U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.schema.ischema.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.schema.ischema.html",
+          "hash": "oyuv1okUvl6gOIeaVz0CM5XvUUFpAbwL0062GxDr/X4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.schema.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.schema.html",
+          "hash": "NJT/zKYESRdEwRtLRVAeiXmpC2MnTh2RYgd+/NsS5qQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.seeds.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.seeds.html",
+          "hash": "jBRK54sXyMZQXTDlxgxU7MqeykI7rPjg/S5XAu0zJJM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.server.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.server.html",
+          "hash": "cXuYjlObt0aawFRCKknj1jjI5S5WKcO40uitiB7IW+Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.server.start.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.server.start.html",
+          "hash": "IttrA0Fu2ihXHKN2juRosgSTRk4ZCStIZdy4rUjDXcs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.service.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.service.html",
+          "hash": "uFX0TzFTO5EMUW1MarW8EBWfcf5pq59/247YtX+PYIs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.charlimitunits.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.charlimitunits.html",
+          "hash": "QPCJuqfEDyKZfNZsDA6xF/BsSufymcClp+HXiNr8TgA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.hidepredicate.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.hidepredicate.html",
+          "hash": "2DV9+SF12xOe6Ctci2orq4naA6rhLvEhUD1x9/MNW5w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.ibooleancondition.defaultvalue.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.ibooleancondition.defaultvalue.html",
+          "hash": "w8pU8ZEcmQ5Oc/EJEtpQDKyjLAsjsCua6bK4kG8saqk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.ibooleancondition.logicaltype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.ibooleancondition.logicaltype.html",
+          "hash": "AeYg/6i4whoQ8gOONmPBitPGXYu3aQhPzR7V0NQ7zdg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.ibooleancondition.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.ibooleancondition.html",
+          "hash": "0Al3PMFH8G/Nj6Wum8AYqZBYZqPTHQ1BHf33Th9esns="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.icharlimit.maxlength.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.icharlimit.maxlength.html",
+          "hash": "jVQehH59sPcIh8UvVSgZidWjEBFY7jGUET5oI8X8JMA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.icharlimit.maxlengthunits.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.icharlimit.maxlengthunits.html",
+          "hash": "tSXA4YzlPmwPmzaDpgiw/LjGDVy+F05brEvRKsOphu8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.icharlimit.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.icharlimit.html",
+          "hash": "p6Wn4+W2ksZ8gdBTPoV7tn/oJfeezFi4qiVprn1Hpnw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.icondition.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.icondition.html",
+          "hash": "lY6VsZ1k33EMCCEupQW439UqW7fRWIsUwqYFdgIa8BA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iconditionbase.description.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iconditionbase.description.html",
+          "hash": "5KskD5I/JPWmUS41ULjb6eWbBcuf381N4jznjSI+S70="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iconditionbase.hide.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iconditionbase.hide.html",
+          "hash": "h6kT88VOJSYoLBcbD5OOF1oROv1bH+oM1AkunzsJLQk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iconditionbase.ismandatory.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iconditionbase.ismandatory.html",
+          "hash": "R3AhG0ar7QOwc3twJPowWG4BU6xPTXwk/L5NTM8ehjo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iconditionbase.label.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iconditionbase.label.html",
+          "hash": "Ht1L6Z350OnYAJNg0VdR6umdy0EAQo89bQUOXXyUsGw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iconditionbase.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iconditionbase.html",
+          "hash": "buirNSF2+4tPuHxleSzh07pzBmTVu4MzfAAm2+U5l/c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.idateandtimecondition.defaultvalue.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.idateandtimecondition.defaultvalue.html",
+          "hash": "4n7eQKnWBjEpj8N6YpF9STxJpdk35WvOS1dy1N5hL4Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.idateandtimecondition.logicaltype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.idateandtimecondition.logicaltype.html",
+          "hash": "6VjxR+sMuNI06KzMxkVsFLZJZSPUu75SFGR3gWAaHeM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.idateandtimecondition.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.idateandtimecondition.html",
+          "hash": "hWIWVnHedHfSIBzVyr2b6Tkf9jWyMGSRb0z1XnTlYJY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.idatecondition.defaultvalue.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.idatecondition.defaultvalue.html",
+          "hash": "aEfdkalN6DsEpqFTAve0GyPaAvo/41uF9y0wJZUApS8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.idatecondition.logicaltype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.idatecondition.logicaltype.html",
+          "hash": "mKeL8c0DidcvsHXyNBWyJuN1lBsMuL3yrOlisSgFmLQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.idatecondition.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.idatecondition.html",
+          "hash": "AC54sZQsRLa1h+i0R0RS33yxiRpFzmEcTVw8fmIOV4U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.idecimalcondition.defaultvalue.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.idecimalcondition.defaultvalue.html",
+          "hash": "iSBcrTDWTkX8HbZfLV0jveZInP2QC7CGmiiq+HY1Syo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.idecimalcondition.logicaltype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.idecimalcondition.logicaltype.html",
+          "hash": "DDaA872XKGxSHDDXmoSuBG1NsW9BlMrhuaZvC7C9k0Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.idecimalcondition.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.idecimalcondition.html",
+          "hash": "i2YDHNl4oRN12zy4Vde74APr8l6p5G4bnn8lhQmgjZA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.igeospatialareacondition.defaultvalue.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.igeospatialareacondition.defaultvalue.html",
+          "hash": "T6Vb2R4GAbEMzVcPTiIoYoS5ffu1xqwm8opX+JS92EQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.igeospatialareacondition.logicaltype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.igeospatialareacondition.logicaltype.html",
+          "hash": "sw1PWQBTxzaXb5gHlC0BBTUHbBFmYloFo1gSYwEZHvk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.igeospatialareacondition.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.igeospatialareacondition.html",
+          "hash": "6SJBpKL0+ciPMNZemmCaqnH1bD/GEGKowB8nmTVDaCA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.igeospatialcondition.defaultvalue.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.igeospatialcondition.defaultvalue.html",
+          "hash": "BdUwXDky4eAy9TX9HIc+Smk0FiCDRi3MNua0VXYksXw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.igeospatialcondition.logicaltype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.igeospatialcondition.logicaltype.html",
+          "hash": "TK47XoGR4+TPOIo3kSESJ5uLGzC94e5RiuUqvCmcPbg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.igeospatialcondition.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.igeospatialcondition.html",
+          "hash": "cDE5sRqO4CkH3vbJTo+pN5pZA8dt5Ylcetv8Knif1tY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iitemtypeconstraint.max.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iitemtypeconstraint.max.html",
+          "hash": "Ug9jRTUzw0jMQVL59Mbih2YHVbe9M5FInT+aAVQaFYA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iitemtypeconstraint.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iitemtypeconstraint.html",
+          "hash": "Su0EeIyWIeOn0Blln+2hSwLKgEWSQElUVzIcRyUSH3U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iitemtypeconstraint.min.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iitemtypeconstraint.min.html",
+          "hash": "B4RIiIcY/AjDfTrVsJw+Sf0nneXmlfjjka/bqXOtmMg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iitemtypeconstraint.type.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iitemtypeconstraint.type.html",
+          "hash": "NMr7PcZuBpbLlftFl+jGFpUl95Nk+sKN+pPRkTmeqLY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.imultilinestringcondition.defaultvalue.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.imultilinestringcondition.defaultvalue.html",
+          "hash": "JBzUfuCaj1oi/TgL2H9s3S50LEh2hIKqhz625+spvY8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.imultilinestringcondition.logicaltype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.imultilinestringcondition.logicaltype.html",
+          "hash": "qbfxbF0WNbFoXL90nUD1gTxsISxxAPzVJgNtYIQgK4w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.imultilinestringcondition.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.imultilinestringcondition.html",
+          "hash": "D+uAP8vjhBbviIPR/qS4EqpC+4feNYhKlBz2v72v/uU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.inumbercondition.defaultvalue.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.inumbercondition.defaultvalue.html",
+          "hash": "4eY1NGF5YxUNPL4wihtxE1SwPV7MbAEwmIKGZv3YhOE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.inumbercondition.logicaltype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.inumbercondition.logicaltype.html",
+          "hash": "+mkkzqvb2YmQEkRH8YfswHT54rxANDDUXksk5LL98j0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.inumbercondition.maxvalue.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.inumbercondition.maxvalue.html",
+          "hash": "VvMFnTeOWcEXsF5x3Pg0TEZ5ElM+OWDXgSoF8AHiGVY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.inumbercondition.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.inumbercondition.html",
+          "hash": "g9cyvH64o10MHR95bGkX7WuWSbMqJtBhyHOLQ1GWfak="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.inumbercondition.minvalue.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.inumbercondition.minvalue.html",
+          "hash": "c8v7j0Erq9bDfPXHiMx/N0YT02y9uqF+7WBhEZNuryA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.irequirespossiblevalues.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.irequirespossiblevalues.html",
+          "hash": "2vN6uaO+AYEyYHhifGO3vjl9DZlNarE/qFBT3LC9CvI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.irequirespossiblevalues.possiblevalues.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.irequirespossiblevalues.possiblevalues.html",
+          "hash": "q8S4CoC6R5Rqd0K7dVRGyzcnbQBCEP0ul/Lt0pEXUGo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iseedconstraints.max.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iseedconstraints.max.html",
+          "hash": "Q+rIyFJLxDQlxBa44IMBin4ZlWIE2x/AfwYcWfrhRb8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iseedconstraints.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iseedconstraints.html",
+          "hash": "3qB8jB7XiOwS/bGhifUCVHsM6OYqHvk0VqrrQ1H1DQM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iseedconstraints.min.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iseedconstraints.min.html",
+          "hash": "9aPcX6/tbF+CmSLkK5d8JRdQ/ocHwAT1QXmpufGp52M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iseedconstraints.thisconnectoronly.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iseedconstraints.thisconnectoronly.html",
+          "hash": "w2gJXPp6sOtTtaAlgJesl8aMdtIBtTVGrjBW8UHWdtk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iseedconstraints.typeconstraints.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iseedconstraints.typeconstraints.html",
+          "hash": "xK8PjqXorF3QVM1IGhBnRFuhS63lPuxsZZEc4mjoOj4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iselectedfromcondition.defaultvalue.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iselectedfromcondition.defaultvalue.html",
+          "hash": "g/Rlo9hbz3YE8qTnb1oJVSF7oN1y+MFbq7k1D/Unn34="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iselectedfromcondition.logicaltype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iselectedfromcondition.logicaltype.html",
+          "hash": "AysKfH1I5dc1U7GBrWrg/GYAZLzdKN5Sjg44vu7GiDQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iselectedfromcondition.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iselectedfromcondition.html",
+          "hash": "WK8tlL/jWDd62p9lqaJcA4eczao1h3m6sB65H43dwu8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iserviceconfig.async.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iserviceconfig.async.html",
+          "hash": "3ER3kXixWXSPiQdyCYMT3XfkMql0MwxrcLKp+4pivwM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iserviceconfig.description.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iserviceconfig.description.html",
+          "hash": "PMwCuU9cOS+BEAe7jLeekq4UpmLTTFsBa4jhQo8Jz4U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iserviceconfig.haspersistentresultids.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iserviceconfig.haspersistentresultids.html",
+          "hash": "apsUl2Y1KgxWBsHazR3xFymtqMpA79mlV79zsqAElEw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iserviceconfig.hide.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iserviceconfig.hide.html",
+          "hash": "h25K94Sl8kBDRHjq2n0bcvS3aS375X6GmPhOK9BmkJc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iserviceconfig.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iserviceconfig.html",
+          "hash": "aUPcgMY4fL3xBYGeeUb9J32yE6j0wPz088salZQ8lzQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iserviceconfig.name.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iserviceconfig.name.html",
+          "hash": "KyDXvdKHPaSVCBjWoAYk6YT3V5o/G/Gkf82B7zb0cWc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.iserviceconfig.resultitemtypes.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.iserviceconfig.resultitemtypes.html",
+          "hash": "/mYP7XOm7RM279S60Ii38uAwgCtHdEgbVL3mHe2rBpI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.isinglelinestringcondition.defaultvalue.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.isinglelinestringcondition.defaultvalue.html",
+          "hash": "isewzmU24i9eYfOQe9cYjbFDdX4naOsZFwVDwsGUBrs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.isinglelinestringcondition.logicaltype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.isinglelinestringcondition.logicaltype.html",
+          "hash": "DwVr1l/m2ppyRaSWbSzkT1N4VguXPDaclmBepuChxB8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.isinglelinestringcondition.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.isinglelinestringcondition.html",
+          "hash": "PFQByb9y4JAM6QU17sSHlAlhLS5cEKXVDXwit9x4Y1o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.istringvalidator.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.istringvalidator.html",
+          "hash": "td+F7wsuA1ifvQKUNUa7smnnDXT3r+wpgtyOA2SSX3U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.istringvalidator.message.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.istringvalidator.message.html",
+          "hash": "xxIYBogytOYUtC6JnmeOsXXjzLWzYGM0LnMoHRqjhxk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.istringvalidator.regex.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.istringvalidator.regex.html",
+          "hash": "0hNQ7sY6GweKcpbC3qYsbR0shdB8943obk5kNat8lRw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.isuggestedfromcondition.defaultvalue.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.isuggestedfromcondition.defaultvalue.html",
+          "hash": "HbPCjDlyhnG+JWeDgETkU68j+SxGIjUDSVWgq8jmzEY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.isuggestedfromcondition.logicaltype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.isuggestedfromcondition.logicaltype.html",
+          "hash": "hTgOavCZoSFOQUVCz2Hm11NZ2WtnrBt7xkfzG+OnDGU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.isuggestedfromcondition.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.isuggestedfromcondition.html",
+          "hash": "ydsWdGkre7XZJvb1TF3UkRIHj0p0AuFKFl+VSUVMXZU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.isupportsmaxlength.maxstringlength.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.isupportsmaxlength.maxstringlength.html",
+          "hash": "KzDQLVuDDm+GHJpKQdCk2qPzWJGRc5WWH3U9zqUPKxs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.isupportsmaxlength.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.isupportsmaxlength.html",
+          "hash": "3+z7r7v/b4Tz9T2OgYc+BGmKLJZOmgvQmhSiTu4uTrI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.isupportsstringvalidation.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.isupportsstringvalidation.html",
+          "hash": "GmMOE9qFsPowDm+62TYwQBrA9TUTkVeZZpMaN5HmkgI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.isupportsstringvalidation.validation.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.isupportsstringvalidation.validation.html",
+          "hash": "jUB1vUvsslBXE0LULT1jgl2YPApGk8iIwC/A3B3WQvI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.itimecondition.defaultvalue.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.itimecondition.defaultvalue.html",
+          "hash": "B8OVombNU4zDBWCSLuqiKXzj+KA3loS1cysnoJJwZSA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.itimecondition.logicaltype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.itimecondition.logicaltype.html",
+          "hash": "s+D5VMnfFoE6C3KTV7yoLitTzc0ab2CqSxGOfONQHTM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.itimecondition.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.itimecondition.html",
+          "hash": "/go86yq6GHhMDj4FTorhcO44R8C7irmwrL1M4EcD3uc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.html",
+          "hash": "qNYmPWxDQ2/9mVXimk6D22pdUbsEGEIaBrzwfBopHsg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.services.requestspecificvalue.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.services.requestspecificvalue.html",
+          "hash": "8NQvv3etpsB4uCwLs7AUiK+eqq/roYIcKNWBRQ8LH3o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/i2connect.substatustype.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/i2connect.substatustype.html",
+          "hash": "vMSL+eTgRyPgvSHm5fprlLKi6ii07wr9SDdycBhUc+o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "V5MavGFXAUWnhB8UD2oV+XutMPatVQzp3ELY6XVOoB0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "TisWEYr8OAWtqzyML7nH31OvIRzl4X/5u5LcUl5qIM8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guide/debugging-connectors.md",
+      "output": {
+        ".html": {
+          "relative_path": "guide/debugging-connectors.html",
+          "hash": "uCT5mlz1LvqKBVILk3QGT97wmV1ip9TltBBA1JtWI4g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guide/deploying-connectors.md",
+      "output": {
+        ".html": {
+          "relative_path": "guide/deploying-connectors.html",
+          "hash": "9NNRIUoekhX6vEiD5w8U3/Ov3GEb7/3wJJ+41oMU3U8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guide/developing-connectors.md",
+      "output": {
+        ".html": {
+          "relative_path": "guide/developing-connectors.html",
+          "hash": "4uypsNroXoTUIWq0BFK7aLTnNVrbKgilWqy26nryzfI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guide/distribute-connector.md",
+      "output": {
+        ".html": {
+          "relative_path": "guide/distribute-connector.html",
+          "hash": "fqaWu0dIbjmSHVE+loC+ZkZCwjeDC5hBHlD7UdQBxEE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guide/favicon.png",
+      "output": {
+        "resource": {
+          "relative_path": "guide/favicon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guide/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "guide/getting-started.html",
+          "hash": "3ho5Iv3+vY39BJzGrGhg4BNmcjAUklPXp/xG9N8Y0KE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "guide/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "guide/toc.html",
+          "hash": "sH3FzX5quDsikT+PRGXwc6JCKQGjvqHTYE1p2WxizRw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "3A5VSwk250t7dhWFS14GGkGoB/zRuKfUuY5/uZYRhGU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "tJ3cuebTHnLLOFBToZp1IRGFSPbrwP7+7IDdvPtHHWI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 275,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
