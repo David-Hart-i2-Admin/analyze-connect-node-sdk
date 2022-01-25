@@ -1,0 +1,24 @@
+{
+  "$schema": "https://i2group.github.io/analyze-connect-node-sdk/schemas/config-schema.json",
+  "serverPort": 3000,
+  "ssl": {
+    "enabled": false,
+    "serverPort": 3443,
+    "privateKeyFile": "",
+    "certificateFile": "",
+    "passphrase": "",
+    "gatewayCN": "",
+    "caCertificateFile": "",
+    "ocspChecking": {
+      "enabled": false,
+      "fallbackResponder": ""
+    }
+  },
+  "log": {
+    "level": "info",
+    "fileLogging": {
+      "enabled": false,
+      "dir": ""
+    }
+  }
+}
